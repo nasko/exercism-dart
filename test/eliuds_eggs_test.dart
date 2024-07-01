@@ -1,4 +1,4 @@
-import 'package:dart_exercises/eliuds_eggs.dart';
+import '../lib/eliuds_eggs.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -1,4 +1,4 @@
-import 'package:dart_exercises/leap.dart';
+import '../lib/leap.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -1,4 +1,4 @@
-import 'package:armstrong_numbers/armstrong_numbers.dart';
+import 'package:exercism/armstrong_numbers/armstrong_numbers.dart';
 import 'package:test/test.dart';
 
 void main() {

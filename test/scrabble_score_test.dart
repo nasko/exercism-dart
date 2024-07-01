@@ -1,4 +1,4 @@
-import 'package:dart_exercises/scrabble_score.dart';
+import '../lib/scrabble_score.dart';
 import 'package:test/test.dart';
 
 void main() {
