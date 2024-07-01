@@ -1,5 +1,5 @@
+import 'package:exercism/two_fer.dart';
 import 'package:test/test.dart';
-import '../lib/two_fer.dart';
 
 void main() {
   group('TwoFer', () {

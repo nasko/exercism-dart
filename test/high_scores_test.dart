@@ -1,4 +1,4 @@
-import '../lib/high_scores.dart';
+import 'package:exercism/high_scores.dart';
 import 'package:test/test.dart';
 
 void main() {

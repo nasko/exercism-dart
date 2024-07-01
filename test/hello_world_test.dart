@@ -1,4 +1,4 @@
-import '../lib/hello_world.dart';
+import 'package:exercism/hello_world.dart';
 import 'package:test/test.dart';
 
 void main() {
