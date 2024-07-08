@@ -1,4 +1,4 @@
-import 'package:hamming/hamming.dart';
+import 'package:exercism/hamming.dart';
 import 'package:test/test.dart';
 
 void main() {
